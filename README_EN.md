@@ -137,4 +137,3 @@ The Skill passes the official `quick_validate.py` check. It has also been tested
 - one-question-at-a-time examiner behavior;
 - E-drive directory collision protection;
 - bidirectional Chinese/English README navigation.
-
